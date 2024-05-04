@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MAYANK SHARMA</h1>
 <h3 align="center">Microsoft Learning Student Ambassador</h3>
-
-![Mayank](https://github.com/MAYANK12SHARMA/MAYANK12SHARMA/assets/145884197/df49d3ed-f3a5-4bb5-a1d5-e0f075187e9f)
-
+![Mayank - Copy](https://github.com/MAYANK12SHARMA/MAYANK12SHARMA/assets/145884197/2591d2b0-ff32-4c00-99e2-5b4d6bf5e6e0)
 
 - 🌱 I’m currently learning **React, Nodejs**
 
