@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 👨‍💻 All of my projects are available at [Ap](Ap)
+- 👨‍💻 All of my projects are available at [https://portfolio.mayankinfinite.tech/](Porfolio)
 
 - 💬 Ask me about **Python, Django, Machine Learning**
 
