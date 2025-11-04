@@ -82,9 +82,15 @@
 ---
 
 ### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayank12sharma/mayank12sharma/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAYANK12SHARMA/MAYANK12SHARMA/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAYANK12SHARMA/MAYANK12SHARMA/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MAYANK12SHARMA/MAYANK12SHARMA/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
