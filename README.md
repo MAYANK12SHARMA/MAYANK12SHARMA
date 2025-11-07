@@ -65,6 +65,8 @@
 ---
 
 ### 🏆 Badges & Achievements
+
+**HactoberFest Achievement**
 [![Holopin Badge Board](https://holopin.me/mayank12sharma3)](https://holopin.io/@mayank12sharma3)
 
 ---
@@ -81,7 +83,6 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
 ### 🐍 Contribution Snake Animation
 <p align="center">
   <picture>
