@@ -31,9 +31,6 @@
 <a href="https://www.hackerrank.com/mayank_12_sharma" target="_blank">
   <img src="https://skillicons.dev/icons?i=hackerrank" width="40" />
 </a>
-<a href="https://leetcode.com/sharmaji8991mayank" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" />
-</a>
 <a href="https://github.com/mayank12sharma" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
