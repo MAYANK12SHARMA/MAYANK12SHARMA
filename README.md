@@ -18,7 +18,7 @@
 
 ### 📬 Contact Me
 - ✉️ Email: **sharmaji8991mayank@gmail.com**  
-- 🌐 Portfolio: [portfolio.mayankinfinite.tech](https://portfolio.mayankinfinite.tech/)  
+- 🌐 Portfolio: [portfolio.mayankinfinite.tech](https://itsmayank.vercel.app/)  
 - 💼 Resume: [View Resume](https://drive.google.com/file/d/1Q27p_2HhDmfWDvgFdkTNtCtr-uqe15JX/view?usp=drive_link)  
 
 ---
